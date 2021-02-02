@@ -1,3 +1,7 @@
+.wrapper {
+  width:auto;
+  margin:0 auto;
+}
 section {
   float:none;
   width:0.8;
