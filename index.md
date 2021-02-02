@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mort9 Posts
+author: Mortie Torabi
 ---
 
 # DevOps Paradigm [Reference]
