@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: pages
 title: Mort9 Posts
 ---
 
