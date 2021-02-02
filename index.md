@@ -1,3 +1,8 @@
+---
+layout: post
+title: Mort9 Posts
+---
+
 # DevOps Paradigm [Reference]
 
 This repository is meant to follow and broadcast the latest advancements in the DevOps industry in a minimalistic and simplified manner. I'm a computer scientist and a DevOps engineer and I would share all my real-world experience and research on DevOps through this repository.
