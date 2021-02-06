@@ -1,8 +1,3 @@
----
-title: Mort9 Posts
-author: Mortie Torabi
----
-
 # DevOps Paradigm
 
 This repository is meant to follow and broadcast the latest advancements in the DevOps industry in a minimalistic and simplified manner. I'm a computer scientist and a DevOps engineer and I would share all my real-world experience and research on DevOps through this repository.
@@ -15,14 +10,10 @@ Described Topics:
 4. Continuous Testing (CT)
 5. Continuous Deployment/Delivery (CD)
 6. Continuous Monitoring (CM)
-7. Version Control (SCM & VCS)
-   1. Git
 
 ## DevOps
 
-"DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and  services at high velocity: evolving and improving products at a faster  pace than organizations using traditional software development and  infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the  market." [[Amazon AWS](https://aws.amazon.com/devops/what-is-devops/)]
-
-It is a joint of two names Development and Operations. This means that DevOps has a wider area of involvement in the software development process. A DevOps engineer is in direct contact with the whole Development team while organizing infrastructural aspects of the software with the Operations team. Not only that, some tasks in both sides are handled by the DevOps team. But what is DevOps really?
+First comes the name, DevOps. It is a joint of two names Development and Operations. This means that DevOps has a wider area of involvement in the software development process. A DevOps engineer is in direct contact with the whole Development team while organizing infrastructural aspects of the software with the Operations team. Not only that, some tasks in both sides are handled by the DevOps team. But what is DevOps really?
 
 Some people refer to DevOps as a methodology, some mention it as a strategy, and some say it's a culture. I personally think that all of these definitions are true. Actually, DevOps is a combination of all that has been learned in terms of software management, development, and maintenance, plus the IT aspects of the organizational-improvement-strategies.
 
@@ -58,7 +49,7 @@ In DevOps we can't reach to the full automation level. But we can try our best t
 
 ## Continuous Integration (CI)
 
-"Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It's a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run." - [Atlassian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikxov-7cnuAhVMSsAKHYgMADEQFjABegQIAhAC&url=https%3A%2F%2Fwww.atlassian.com%2Fcontinuous-delivery%2Fcontinuous-integration%23%3A~%3Atext%3DContinuous%2520integration%2520(CI)%2520is%2520the%2Cbuilds%2520and%2520tests%2520then%2520run.&usg=AOvVaw3tY6Lqgb9o42lyfzUuyDZN)
+" Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It's a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run." - [Atlassian](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikxov-7cnuAhVMSsAKHYgMADEQFjABegQIAhAC&url=https%3A%2F%2Fwww.atlassian.com%2Fcontinuous-delivery%2Fcontinuous-integration%23%3A~%3Atext%3DContinuous%2520integration%2520(CI)%2520is%2520the%2Cbuilds%2520and%2520tests%2520then%2520run.&usg=AOvVaw3tY6Lqgb9o42lyfzUuyDZN)
 
 Continuous Integration could be a huge relief when it comes to running a development
 
@@ -71,18 +62,4 @@ Continuous Integration could be a huge relief when it comes to running a develop
 
 
 ## Continuous Monitoring (CM)
-
-
-
-## Code Version Control (SCM & VCS)
-
-### VCS
-
-**Version Control** (also known as revision control, source control, or source code management) is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. Version control is a component of software configuration management. ~ [Wikipedia]([Version control - Wikipedia](https://en.wikipedia.org/wiki/Version_control))
-
-One of the most popular VCS systems is Git. you can read about git [HERE](pages/git).
-
-### SCM
-
-**Source Code Management** (**SCM**) is used to track modifications to a **source code** repository. **SCM** tracks a running history of changes to a **code** base and helps resolve conflicts when merging updates from multiple contributors. **SCM** is also synonymous with Version **control**. ~ [Atlassian](https://www.atlassian.com/git/tutorials/source-code-management#:~:text=Source%20code%20management%20(SCM)%20is,also%20synonymous%20with%20Version%20control.)
 
