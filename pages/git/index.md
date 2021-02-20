@@ -54,3 +54,7 @@ And then try to access the repositories like this :
 git clone git@work:username/my-work-project.git
 git clone git@personal:username/my-personal-project.git
 ```
+
+## Removing Sensitive Data from Git Repository
+
+[Removing sensitive data from a repository - GitHub Docs](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
