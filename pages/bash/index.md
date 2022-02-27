@@ -11,7 +11,7 @@ author: Mortie Torabi
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 ```
 
-#### Handle SIGINT (Ctrl-c) signal for a script 
+#### Handle SIGINT (Ctrl-c) signal for a script
 
 ```bash
 function handle_sigint() # Kill all subprocesses and childs
@@ -35,4 +35,3 @@ wait
 ```bash
 jq '..|.updateDate?' # Skip non-json data
 ```
-

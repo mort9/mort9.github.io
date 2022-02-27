@@ -34,16 +34,11 @@ author: Mortie Torabi
     - Changes to software *do not invalidate existing tests*
   - **Understandability**: The more information we have, the smarter we will test
     - The *design* is well understood
-    -  *Dependencies* among components are well understood
+    - *Dependencies* among components are well understood
   - Good technical *documentation*
-  
 
-  
 ### Model Based Testing
-  
-Is an application of model-based design for designing and optionally also executing artifacts to perform **software testing** or **system testing**. Models can be used to represent the desired behavior of a System Under Test (SUT), or to represent testing strategies and a test environment.
-  
-![image-20210214180739888](C:\Users\mortie\AppData\Roaming\Typora\typora-user-images\image-20210214180739888.png)
-  
-  
 
+Is an application of model-based design for designing and optionally also executing artifacts to perform **software testing** or **system testing**. Models can be used to represent the desired behavior of a System Under Test (SUT), or to represent testing strategies and a test environment.
+
+![image-20210214180739888](C:\Users\mortie\AppData\Roaming\Typora\typora-user-images\image-20210214180739888.png)

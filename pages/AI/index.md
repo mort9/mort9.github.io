@@ -14,4 +14,3 @@ A Data-Type which consists of a number of finite categories. [fruit, car, house,
    2. Polynomial Regression ->
    3. Logistic Regression -> S-Shaped relation to describe Categorical values.
    4. Bayesian Linear Regression
-

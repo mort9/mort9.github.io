@@ -17,8 +17,6 @@ pip install setuptools_rust
 pip install python-telegram-bot --upgrade
 ```
 
-
-
 ## Telethon : A Python Based Telegram Client
 
 [Quick-Start — Telethon 1.19.1 documentation](https://docs.telethon.dev/en/latest/basic/quick-start.html)
@@ -58,8 +56,6 @@ pip install python-telegram-bot --upgrade
 [Part 2: Deploying Telegram Bot for FREE on Heroku | Codementor](https://www.codementor.io/@karandeepbatra/part-2-deploying-telegram-bot-for-free-on-heroku-19ygdi7754)
 
 [telegram.ext package — Python Telegram Bot 13.2 documentation (python-telegram-bot.readthedocs.io)](https://python-telegram-bot.readthedocs.io/en/stable/telegram.html)
-
-
 
 ### References
 
